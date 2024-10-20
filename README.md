@@ -7,3 +7,5 @@ Denemek için birşeyler yazıyorum...
 
 
 Dosya'yı yeniden düzenlemeye başladım eski dosyaları sildim ve teni dosyalar ekledim.
+
+Yaptığımız çalışmaları branchlere çekmek için "git pull origin ...işlem yapacağın branch'in adını yaz"yedekbranch veya main"..."
