@@ -10,3 +10,5 @@ Dosya'yı yeniden düzenlemeye başladım eski dosyaları sildim ve teni dosyala
 
 Yaptığımız çalışmaları branchlere çekmek için "git pull origin ...işlem yapacağın branch'in adını yaz"yedekbranch veya main"..."
 ..
+
+index ve Css dosyalarına yeni kodlar ekledim. 
