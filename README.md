@@ -12,3 +12,5 @@ Yaptığımız çalışmaları branchlere çekmek için "git pull origin ...işl
 ..
 
 index ve Css dosyalarına yeni kodlar ekledim. 
+
+22.10.2024 Yedekbranch olarak kod yazacağım.UkS..
