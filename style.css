@@ -160,4 +160,25 @@ gap: 1rem;
     justify-content: space-between;
     transition: all 0.5s ease-in-out;
 }
-/* 21:48 dk kaldık */
+.payment--card:hover{
+    transform: translateY(-5);
+}
+.card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.amount{
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.amount--value{
+    font-size: 24px;
+}
+/* 23:21 dk kaldık (yedekbranch yazadı..22.10.2024)*/
