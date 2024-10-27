@@ -17,3 +17,5 @@ index ve Css dosyalarına yeni kodlar ekledim.
 
 
 Proje Bitti 
+
+Kartların üzerine isimlerini ekledim.yedekbranch..27/10/2024
